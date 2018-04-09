@@ -1,0 +1,61 @@
+C:\Users\Administrator\Desktop\tcp服务端\tcp服务端\bin\Debug\tcp服务端.exe
+C:\Users\Administrator\Desktop\tcp服务端\tcp服务端\bin\Debug\tcp服务端.pdb
+C:\Users\Administrator\Desktop\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.Properties.Resources.resources
+C:\Users\Administrator\Desktop\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.exe
+C:\Users\Administrator\Desktop\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.pdb
+C:\Users\Administrator\Desktop\触屏考试系统\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.exe
+C:\Users\Administrator\Desktop\触屏考试系统\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.pdb
+C:\Users\Administrator\Desktop\触屏考试系统\tcp服务端\tcp服务端\bin\Debug\tcp服务端.exe
+C:\Users\Administrator\Desktop\触屏考试系统\tcp服务端\tcp服务端\bin\Debug\tcp服务端.pdb
+C:\Users\Administrator\Desktop\触屏考试系统\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.Form1.resources
+C:\Users\Administrator\Desktop\触屏考试系统\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.Properties.Resources.resources
+C:\Users\Administrator\Desktop\触屏考试系统\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.csproj.GenerateResource.Cache
+E:\tmep\触屏考试系统\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.exe
+E:\tmep\触屏考试系统\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.pdb
+E:\入井考试系统\旧资料\触屏考试系统\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.exe
+E:\入井考试系统\旧资料\触屏考试系统\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.pdb
+E:\入井考试系统\旧资料\触屏考试系统\tcp服务端\tcp服务端\bin\Debug\tcp服务端.exe
+E:\入井考试系统\旧资料\触屏考试系统\tcp服务端\tcp服务端\bin\Debug\tcp服务端.pdb
+E:\入井考试系统\旧资料\触屏考试系统\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.Form1.resources
+E:\入井考试系统\旧资料\触屏考试系统\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.Properties.Resources.resources
+E:\入井考试系统\旧资料\触屏考试系统\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.csproj.GenerateResource.Cache
+E:\入井考试系统\旧资料\触屏考试系统\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.csprojResolveAssemblyReference.cache
+C:\Users\goldman\Documents\Tencent Files\1449511286\FileRecv\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.exe
+C:\Users\goldman\Documents\Tencent Files\1449511286\FileRecv\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.pdb
+C:\Users\goldman\Documents\Tencent Files\1449511286\FileRecv\tcp服务端\tcp服务端\bin\Debug\tcp服务端.exe
+C:\Users\goldman\Documents\Tencent Files\1449511286\FileRecv\tcp服务端\tcp服务端\bin\Debug\tcp服务端.pdb
+C:\Users\goldman\Documents\Tencent Files\1449511286\FileRecv\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.csprojResolveAssemblyReference.cache
+C:\Users\goldman\Documents\Tencent Files\1449511286\FileRecv\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.Form1.resources
+C:\Users\goldman\Documents\Tencent Files\1449511286\FileRecv\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.Properties.Resources.resources
+C:\Users\goldman\Documents\Tencent Files\1449511286\FileRecv\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.csproj.GenerateResource.Cache
+D:\文件保存\项目文件\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.exe
+D:\文件保存\项目文件\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.pdb
+D:\文件保存\项目文件\tcp服务端\tcp服务端\bin\Debug\tcp服务端.exe
+D:\文件保存\项目文件\tcp服务端\tcp服务端\bin\Debug\tcp服务端.pdb
+D:\文件保存\项目文件\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.csprojResolveAssemblyReference.cache
+D:\文件保存\项目文件\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.Form1.resources
+D:\文件保存\项目文件\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.Properties.Resources.resources
+D:\文件保存\项目文件\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.csproj.GenerateResource.Cache
+C:\Users\goldman\Desktop\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.exe
+C:\Users\goldman\Desktop\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.pdb
+E:\设备管理\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.exe
+E:\设备管理\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.pdb
+E:\设备管理\tcp服务端\tcp服务端\bin\Debug\tcp服务端.exe
+E:\设备管理\tcp服务端\tcp服务端\bin\Debug\tcp服务端.pdb
+E:\设备管理\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.csprojResolveAssemblyReference.cache
+E:\设备管理\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.Form1.resources
+E:\设备管理\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.Properties.Resources.resources
+E:\设备管理\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.csproj.GenerateResource.Cache
+C:\Users\goldman\Desktop\tcp服务端\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.exe
+C:\Users\goldman\Desktop\tcp服务端\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.pdb
+C:\Users\goldman\Desktop\tcp服务端\tcp服务端\bin\Debug\tcp服务端.exe
+C:\Users\goldman\Desktop\tcp服务端\tcp服务端\bin\Debug\tcp服务端.pdb
+C:\Users\goldman\Desktop\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.csprojResolveAssemblyReference.cache
+C:\Users\goldman\Desktop\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.Form1.resources
+C:\Users\goldman\Desktop\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.Properties.Resources.resources
+C:\Users\goldman\Desktop\tcp服务端\tcp服务端\obj\x86\Debug\tcp服务端.csproj.GenerateResource.Cache
+C:\Users\goldman\Desktop\日志\tcp服务端\obj\x86\Debug\tcp服务端.exe
+C:\Users\goldman\Desktop\日志\tcp服务端\obj\x86\Debug\tcp服务端.pdb
+C:\Users\goldman\Desktop\TCP服务器\tcp服务端\obj\x86\Debug\tcp服务端.exe
+C:\Users\goldman\Desktop\TCP服务器\tcp服务端\obj\x86\Debug\tcp服务端.pdb
